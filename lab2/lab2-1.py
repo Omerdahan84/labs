@@ -12,4 +12,4 @@ def calc(num, val):
         return 'Illegal value'
 
 if __name__ == '__main__':
-    print(calc(5, 'a'))
+    print(calc(7 , 'd'))
